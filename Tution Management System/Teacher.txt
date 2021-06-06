@@ -1,0 +1,76 @@
+Male Teachers:- 
+
+Teacher Name: Hassan Shikder
+Teacher Age: 28
+Teacher Qualification: Hons. in Bangla
+Teacher Number: 018965723784
+
+Teacher Name: Hannan Rahman
+Teacher Age: 42
+Teacher Qualification: BCom in English
+Teacher Number: 01796257418
+
+Teacher Name: Fazlur Rahman
+Teacher Age: 32
+Teacher Qualification: Masters in Math
+Teacher Number: 01987532148
+
+Teacher Name: Anamul Hasan
+Teacher Age: 35
+Teacher Qualification: Hons in Physics
+Teacher Number: 01672493657
+
+Teacher Name: Rabiul Islam
+Teacher Age: 37
+Teacher Qualification: Hons in Chemistry
+Teacher Number: 01387994751
+
+Teacher Name: Anamul Hasan
+Teacher Age: 35
+Teacher Qualification: Hons in Biology
+Teacher Number: 01788694237
+
+Teacher Name: Muhaiminul Islam
+Teacher Age: 23
+Teacher Qualification: BSc CSE
+Teacher Number: 01821800405
+
+Female Teachers:- 
+
+Teacher Name: Sithi Shikder
+Teacher Age: 28
+Teacher Qualification: Hons in Bangla
+Teacher Number: 01988657103
+
+Teacher Name: Farhan Aktter
+Teacher Age: 42
+Teacher Qualification: BCom in English
+Teacher Number: 0169978417
+
+Teacher Name: Sabia Rahman
+Teacher Age: 32
+Teacher Qualification: Masters in Math
+Teacher Number: 01716957188
+
+Teacher Name: Shormila Hasan
+Teacher Age:35
+Teacher Qualification: Hons in Physics
+Teacher Number: 01836790043
+
+Teacher Name: Proma Islam
+Teacher Age: 37
+Teacher Qualification:Hons in Chemistry
+Teacher Number: 01736984244
+
+Teacher Name: Diba Hasan
+Teacher Age: 35
+Teacher Qualification: Hons in Biology
+Teacher Number: 01961504399
+
+Teacher Name: Tajnuba Mridu
+Teacher Age: 24
+Teacher Qualification: BSc in CSE
+Teacher Number: 01703804988
+
+
+
